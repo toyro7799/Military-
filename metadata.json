@@ -1,0 +1,5 @@
+{
+  "name": "Arabic Military Table Extractor",
+  "description": "A powerful React application using Gemini Vision to extract Arabic military data tables from images and convert them to Excel.",
+  "requestFramePermissions": []
+}
